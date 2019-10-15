@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caereingee.volcano18.top/sitemap.xml
